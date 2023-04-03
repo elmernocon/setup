@@ -1,0 +1,2 @@
+# --- podman ---
+alias docker='podman'
