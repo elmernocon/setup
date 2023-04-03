@@ -31,6 +31,7 @@ chmod +x setup.sh && ./setup.sh
 | name       | type    | description                                     |
 |------------|---------|-------------------------------------------------|
 | dive       | formula | Tool for exploring each later in a docker image |
+| podman     | formula | Tool for managing OCI containers and pods       |
 | pycharm-ce | cask    | IDE for Python programming - Community Edition  |
 | slack      | cask    | Team communication and collaboration software   |
 | spotify    | cask    | Music streaming service                         |
