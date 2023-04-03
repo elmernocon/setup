@@ -28,11 +28,14 @@ chmod +x setup.sh && ./setup.sh
 
 ### Other brew formulae and casks
 
-| name       | type    | description                                     |
-|------------|---------|-------------------------------------------------|
-| dive       | formula | Tool for exploring each later in a docker image |
-| podman     | formula | Tool for managing OCI containers and pods       |
-| pycharm-ce | cask    | IDE for Python programming - Community Edition  |
-| slack      | cask    | Team communication and collaboration software   |
-| spotify    | cask    | Music streaming service                         |
-| vlc        | cask    | VLC media player                                |
+| name          | type    | description                                     |
+|---------------|---------|-------------------------------------------------|
+| dive          | formula | Tool for exploring each later in a docker image |
+| podman        | formula | Tool for managing OCI containers and pods       |
+| google-chrome | cask    | Web browser                                     |
+| pritunl       | cask    | OpenVPN client                                  |
+| postman       | cask    | Collaboration platform for API development      |
+| pycharm-ce    | cask    | IDE for Python programming - Community Edition  |
+| slack         | cask    | Team communication and collaboration software   |
+| spotify       | cask    | Music streaming service                         |
+| vlc           | cask    | VLC media player                                |
