@@ -40,4 +40,7 @@ brew install --cask fork
 # firefox: Web browser
 brew install --cask firefox
 
+# zshadd
+printf "\n\n$(cat res/zshadd.zshrc)" >> .zshrc
+
 printf "\n%s\n" "$(<.zshrc)" && cat .zshrc > ~/.zshrc && rm .zshrc
